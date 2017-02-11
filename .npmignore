@@ -1,0 +1,9 @@
+lib
+test
+.babelrc
+.eslintrc
+output.txt
+README.md
+test.js
+*.tgz
+*.log
